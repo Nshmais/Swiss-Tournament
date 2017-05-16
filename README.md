@@ -1,6 +1,6 @@
 # Swiss-Tournament
-created by: Noah Shmais
-date: 3/31/2017
+Created by: Noah Shmais
+Date: 3/31/2017
 
 Swiss-system tournament is a non-eliminating tournament format which features a set number of rounds of competition
 
