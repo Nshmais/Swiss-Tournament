@@ -4,16 +4,18 @@ Date: 3/31/2017
 
 Swiss-system tournament is a non-eliminating tournament format which features a set number of rounds of competition
 
+## Files
 
-the project contain of three files 
-1.tournament.py
-2.tournament.sql
-3.tournament_test.py
-
+the project contain of three files:
+ ```
+   1.tournament.py
+   2.tournament.sql
+   3.tournament_test.py
+```
 
 - The First file (tournament.py) contain the code for the swiss tournament (sql and python) for each function
 - The Second file (tournament.sql) contain the database tables for the tournament
-- The Third file (tournament_test.py) contain the test_case of the code.
+- The Third file (tournament_test.py) contain the test_cases of the code.
 
 ## Install
 
