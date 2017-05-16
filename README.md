@@ -6,7 +6,7 @@ Swiss-system tournament is a non-eliminating tournament format which features a 
 
 ## Files
 
-the project contain of three files:
+The project contain of three files:
  ```
    1.tournament.py
    2.tournament.sql
