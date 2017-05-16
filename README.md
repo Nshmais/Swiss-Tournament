@@ -19,8 +19,22 @@ the project contain of three files
 
 To run database (tournament) on vagrant: 
 1. run (psql) in the command line to check if you proparly installed psql
+
+ ```javascript
+    $psql
+```
+
 2. you can run tournament.psql by running (\i tournament.sql) in the command line 
+
+ ```javascript
+    \i tournament.sql
+```
+
 3. run  (psql -d tournament) in command line to log in to the desired database
+ ```javascript
+    psql -d tournament
+```
+
 4. you can create and/or drop tables or the entire database using sql
 5. you can check select, update, insert,... to the created database
 6. (Ctrl+d) will log_off and return you to your VM    
@@ -29,4 +43,4 @@ To run database (tournament) on vagrant:
 
 ## License
 
-`Multi-User-Blog` is a public domain work, dedicated using feel free to do whatever you want with it.
+`Swiss-Tournament` is a public domain work, dedicated using feel free to do whatever you want with it.
