@@ -2,9 +2,7 @@
 Created by: Noah Shmais
 Date: 3/31/2017
 
-Swiss-system tournament is a non-eliminating tournament format which features a set number of rounds of competition
-
-Built a PostgreSQL relational database scheme to store the results of a game tournament. Also provided a number of queries to efficiently report the results of the tournament and determine the winner.
+Swiss-system tournament is a non-eliminating tournament format which features a set number of rounds of competition. This project will built a PostgreSQL relational database scheme to store the results of a game tournament. Also provided a number of queries to efficiently report the results of the tournament and determine the winner.
 
 
 ## Files
