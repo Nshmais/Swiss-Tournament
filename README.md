@@ -15,6 +15,7 @@ the project contain of three files
 - The Second file (tournament.sql) contain the database tables for the tournament
 - The Third file (tournament_test.py) contain the test_case of the code.
 
+## Install
 
 To run database (tournament) on vagrant: 
 1. run (psql) in the command line to check if you proparly installed psql
@@ -24,3 +25,8 @@ To run database (tournament) on vagrant:
 5. you can check select, update, insert,... to the created database
 6. (Ctrl+d) will log_off and return you to your VM    
  
+
+
+## License
+
+`Multi-User-Blog` is a public domain work, dedicated using feel free to do whatever you want with it.
