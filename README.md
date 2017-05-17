@@ -50,4 +50,4 @@ With every match based on the outcomes of the match, the **Score** variable incr
 
 ## License
 
-`Swiss-Tournament` is a public domain work, dedicated using feel free to do whatever you want with it.
+`Swiss-Tournament` is a released under the [MIT License](https://opensource.org/licenses/MIT)
