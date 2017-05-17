@@ -41,7 +41,11 @@ To run database (tournament) on vagrant:
 4. you can create and/or drop tables or the entire database using sql
 5. you can check select, update, insert,... to the created database
 6. (Ctrl+d) will log_off and return you to your VM    
- 
+
+## Pairing Logic
+
+With every match based on the outcomes of the match, the **Score** variable incraments with 3 points if win and 0 points if lost. then the players get aranged in **Ascending** order based on their Score. Every **ajacent ODD and the next EVEN ordered player get paired together** for next game.     
+
 
 
 ## License
