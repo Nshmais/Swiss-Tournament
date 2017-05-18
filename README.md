@@ -44,7 +44,7 @@ To run database (tournament) on vagrant:
 
 ## Pairing Logic
 
-With every match based on the outcomes of the match, the **Score** variable incraments with 3 points if win and 0 points if lost. then the players get aranged in **Ascending** order based on their Score. Every **ajacent ODD and the next EVEN ordered player get paired together** for next game.     
+With every match based on the outcomes of the match, the **Score** variable incraments with 3 points if win and 0 points if lost. then the players get aranged in **Ascending** order based on their Score. Every **ajacent odd and the next even ordered player get paired together** for next game.     
 
 
 
