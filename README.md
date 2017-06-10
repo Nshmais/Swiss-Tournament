@@ -1,4 +1,4 @@
-# Swiss-Tournament
+# ⚽ Swiss-Tournament ⚾
 Created by: Noah Shmais
 Date: 3/31/2017
 
@@ -6,7 +6,6 @@ Swiss-system tournament is a non-eliminating tournament format which features a 
 
 
 ## Files
-
 The project contain of three files:
  ```
    1.tournament.py
@@ -19,7 +18,6 @@ The project contain of three files:
 - The Third file (tournament_test.py) contain the test_cases of the code.
 
 ## Install
-
 To run database (tournament) on vagrant: 
 1. run (psql) in the command line to check if you proparly installed psql
 
@@ -43,11 +41,9 @@ To run database (tournament) on vagrant:
 6. (Ctrl+d) will log_off and return you to your VM    
 
 ## Pairing Logic
-
 With every match based on the outcomes of the match, the **Score** variable incraments with 3 points if win and 0 points if lost. then the players get aranged in **Ascending** order based on their Score. Every **ajacent odd and the next even ordered player get paired together** for next game.     
 
 
 
 ## License
-
 `Swiss-Tournament` is a released under the [MIT License](https://opensource.org/licenses/MIT)
